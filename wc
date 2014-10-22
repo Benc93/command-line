@@ -1,0 +1,4 @@
+'wc' is a Unix command short for Word Count
+'wc' will produce one or more of the following stats: Line count; Word count; Byte count
+'wc' takes one parameter which is the file/directory to be searched
+Example: wc greeting.txt  (will produce "40  50  157  greeting.txt")   
