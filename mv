@@ -1,0 +1,3 @@
+'mv' unix command is short for 'move' 
+'mv' can be used to move files or directories from one place to another or simply to rename them
+Example: mv file newFile      (This renames 'file' as 'newFile')
