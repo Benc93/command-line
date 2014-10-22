@@ -1,0 +1,4 @@
+'grep' is a Unix command short for Globally search a Regular Expression and Print
+'grep' will search glabally and print all expressions matching a previously defined pattern
+'grep' takes two parameters the first is the term to be searched for and the second is where to search
+Example: grep cats petShop.txt (Here, grep will search for the expression 'cats' within the file 'petShop.txt')
