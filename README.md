@@ -2,7 +2,8 @@
 
 ####Summary of Activity 
     
-This was the very first pre-course exercise on the Makers Academy curriculum.    
+This was the very first pre-course exercise on the Makers Academy curriculum.
+     
 It was a rather large tutorial that involved a great number of new concepts. The activites can be briefly summarised below: 
    
 + Introduction to the terminal.   
